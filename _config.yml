@@ -1,0 +1,9 @@
+# _config.yml
+
+title: My GitHub Pages Site
+description: A description of my site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
